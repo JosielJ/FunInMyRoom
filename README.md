@@ -1,7 +1,3 @@
-<p align="center">
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=RED&style=for-the-badge"/>
-</p>
-
 ### Fun In My Room.
 
 <hr>
