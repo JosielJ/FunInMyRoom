@@ -17,7 +17,7 @@
 ## Descrição do projeto
 
 <p align="justify">
-Meu primeiro jogo feito para uma Game Jam em 2020. O jogo foi feito em 1 semana com a temática de "One Room", é um jogo 2D top down simples, o jogo se passa no quarto de um garoto que acabou de se mudar para casa de infância do pai dele, onde ele acha um console antigo, nesse console tem 3 minigames onde ele passa o dia jogando. Eu fiz os gráficos, efeitos sonoros e as músicas.
+Meu primeiro jogo, ele feito para uma Game Jam em 2020. O jogo foi feito em 1 semana com a temática de "One Room", é um jogo 2D top down simples, o jogo se passa no quarto de um garoto que acabou de se mudar para casa de infância do pai dele, onde ele acha um console antigo, nesse console tem 3 minigames onde ele passa o dia jogando. Eu fiz os gráficos, efeitos sonoros e as músicas.
 </p>
 
 <div>
